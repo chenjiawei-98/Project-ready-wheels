@@ -1,0 +1,12 @@
+[
+    {
+        "directory": "e:\\代码库\\Queue_Code",
+        "command": "clang      -c \"e:\\代码库\\Queue_Code\\bsp_queue.c\"",
+        "file": "e:\\代码库\\Queue_Code\\bsp_queue.c"
+    },
+    {
+        "directory": "e:\\代码库\\Queue_Code",
+        "command": "clang      -c \"e:\\代码库\\Queue_Code\\main.c\"",
+        "file": "e:\\代码库\\Queue_Code\\main.c"
+    }
+]
